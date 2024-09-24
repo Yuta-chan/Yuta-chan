@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋 I'm Judith </h1>
 <h3 align="center">A Data Science Student passionate about exploring the world while learning new languages, studying human behavior, challenging myself through dance, and documenting my experiences through photography and writing.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuta-chan&label=Profile%20views&color=0e75b6&style=flat" alt="yuta-chan" /> </p>
 
 - 🌱 I’m currently learning **Basics on Computer Vision**
@@ -58,3 +57,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuta-chan&show_icons=true&locale=en" alt="yuta-chan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuta-chan&" alt="yuta-chan" /></p>
+
+<a href="https://github.com/Yuta-chan/Simple-Data-Science/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Yuta-chan/Simple-Data-Science" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
