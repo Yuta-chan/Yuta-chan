@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **judith.urbina.cordoba@gmail.com**
 
-- 📄 Know about my experiences [Resumé](https://drive.google.com/file/d/1Uu0DWnkbhLff0Zr4Mh-HU5bL3aeBuQaW/view?usp=drive_link)
+- 📄 Know about my experiences [Resumé](https://drive.google.com/file/d/1lHfv8IVNK92NlbeuBAIp-P_slvN9_5-i/view?usp=sharing)
 
 - ⚡ Fun fact **I’m always making mistakes when trying new things. On average, only one out of four attempts turns out well.**
 
