@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="300" src="profile_gif.gif"  />
+<img align="right" height="200" src="profile_gif.gif"  />
 
 ###
 
